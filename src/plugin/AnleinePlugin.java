@@ -5,7 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class AnleinePlugin extends JavaPlugin {
 
 	public void onEnable() {
-		System.out.println("[Anleine]Das Plugin wurde gestartet..xxxxx.");
+		System.out.println("[Anleine]Das Plugin wurde gestartet..xxxxx.xxx");
 
 		getServer().getPluginManager().registerEvents(new AnleineListener(),
 				this);
