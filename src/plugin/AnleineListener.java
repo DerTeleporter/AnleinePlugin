@@ -12,7 +12,7 @@ public class AnleineListener implements Listener {
 	public void onPlayerRechtsKlick(PlayerInteractEvent event) {
 		Player player = event.getPlayer();
 		
-		System.out.println("Reagiert auf player click (" + player.getDisplayName() + ")");
+	//	System.out.println("Reagiert auf player click (" + player.getDisplayName() + ")");
 		
 	}
 
